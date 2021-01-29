@@ -16,41 +16,41 @@
 ## O que rolou na primeira aula
 
 * Soft Skills
-  [] O que é ser uma pessoa programadora
-  [] Oportunidades e mercado
-  [] Organização e estudos
+ 	 [] O que é ser uma pessoa programadora
+  	[] Oportunidades e mercado
+  	[] Organização e estudos
 	[] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
-  [] Navegamos pela plataforma
-  [] Dicas de como acompanhar as aulas
-  [] Mentalidade
+  	[] Navegamos pela plataforma
+ 	 [] Dicas de como acompanhar as aulas
+  	[] Mentalidade
 	[] Tempo, Descanso, Persistência, Síndrome do impostor
 	[] Você gosta do que está fazendo?
 * Hard Skills (prática)
-  [] HTML
+  	[] HTML
 	[] Estrutura base
 	[] Tags semânticas
-  [] CSS
+ 	[] CSS
 	[] Box Model
 	[] Fontes e Cores
 	[] Seletores, Valores, Classes e IDs
 
 
 ## Aula 02 - Finalização do HTML + CSS__
-  [] Imagens
-  [] Acessibilidade
-  [] Disposição dos elementos na página
-  [] Responsividade
-  [] Formulário para cadastro de dados
-  [] Modal
-  [] Uma pitadinha de JavaScript
+ 	[] Imagens
+ 	[] Acessibilidade
+ 	[] Disposição dos elementos na página
+ 	[] Responsividade
+  	[] Formulário para cadastro de dados
+  	[] Modal
+ 	[] Uma pitadinha de JavaScript
 
 ## Tarefa para a Aula 03: Assistir aos cursos/aulas
 	### Revisão
 	* HTML
-		[] Posso ver e ouvir o HTML
-		[] Formulários de outro planeta
+	[] Posso ver e ouvir o HTML
+	[] Formulários de outro planeta
 	* CSS
-		[] Nem só de classes ou ID's
+	[] Nem só de classes ou ID's
 	### Para acompanhar a próxima aula
 	* [] O guia estelar de JavaScript
   
