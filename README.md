@@ -65,6 +65,14 @@
 # Bora Codar!
 
 
+# trilha Extra
+  * Modificado paleta de cores seguindo padrão UX/UI.
+  * Criado pastas para organização de arquivos.
+  * Separado codigos de componetes header, cards, table, modal, form, footer estilo global e responsive.
+  * Inserido estilo dark mode.
+
+
+
 
   
   
