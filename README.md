@@ -1,6 +1,6 @@
 # Maratona-Discover
 
-<img src="./assets/devfinaces.png" alt="Logo Dev Finance" />
+<img src="https://user-images.githubusercontent.com/40075067/108608749-cc583e80-73a7-11eb-85ab-a9cd8d82e344.png" alt="Logo Dev Finance" />
 
 ### Qual a proposta desta Maratona?
 	[x] Organização e estudo
