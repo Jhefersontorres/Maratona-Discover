@@ -1,5 +1,3 @@
-
-//constate para onclick Open e Close
 const Modal = {
     open(){
         // Abrir modal
@@ -70,7 +68,6 @@ const Transaction = {
     }
 }
 
-//Const para gerar o return dos valores nas linhas da tabela
 const DOM = {
     transactionsContainer: document.querySelector('#data-table tbody'),
 
@@ -116,7 +113,6 @@ const DOM = {
     }
 }
 
-// Const para configurações formatação de campos NUMBER E DATE
 const Utils = {
     formatAmount(value){
         value = Number(value.replace(/\,\./g, "")) * 100
