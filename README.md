@@ -1,5 +1,6 @@
 # Maratona-Discover
 
+
 ### Qual a proposta desta Maratona?
 	[] Organização e estudo
 	[] Plataforma e Comunidade
