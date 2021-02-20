@@ -8,7 +8,7 @@
 #data-table {
     width: 100%;
     border-spacing: 0 0.5rem;
-    color: #969cb3;
+    color: var(--text-table);
 }
 
 table thead tr th:first-child, 
@@ -23,7 +23,7 @@ table tbody tr td:last-child{
 }
 
 table thead th {
-    background: white;
+    background: var(--card-table);
 
     font-weight: normal;
     padding: 1rem 2rem;
