@@ -1,59 +1,60 @@
 # Maratona-Discover
 
+<img src="./assets/devfinaces.png" alt="Logo Dev Finance" />
 
 ### Qual a proposta desta Maratona?
-	[] Organização e estudo
-	[] Plataforma e Comunidade
-	[] Mentalidade Dev
-	[] Praticar as tecnologias do Discover
+	[x] Organização e estudo
+	[x] Plataforma e Comunidade
+	[x] Mentalidade Dev
+	[x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	[] Clareza prática
-	[] Entendimento da plataforma e comunidade 
-	[] Projeto aplicando os conceitos do Discover
-	[] Bases necessárias para continuar sua jornada
+	[x] Clareza prática
+	[x] Entendimento da plataforma e comunidade 
+	[x] Projeto aplicando os conceitos do Discover
+	[x] Bases necessárias para continuar sua jornada
 	
 
 ## O que rolou na primeira aula
 
 * Soft Skills
- 	 [] O que é ser uma pessoa programadora
-  	[] Oportunidades e mercado
-  	[] Organização e estudos
-	[] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
-  	[] Navegamos pela plataforma
- 	 [] Dicas de como acompanhar as aulas
-  	[] Mentalidade
-	[] Tempo, Descanso, Persistência, Síndrome do impostor
-	[] Você gosta do que está fazendo?
+ 	[x] O que é ser uma pessoa programadora
+  	[x] Oportunidades e mercado
+  	[x] Organização e estudos
+	[x] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
+  	[x] Navegamos pela plataforma
+ 	[x] Dicas de como acompanhar as aulas
+  	[x] Mentalidade
+	[x] Tempo, Descanso, Persistência, Síndrome do impostor
+	[x] Você gosta do que está fazendo?
 * Hard Skills (prática)
-  	[] HTML
-	[] Estrutura base
-	[] Tags semânticas
- 	[] CSS
-	[] Box Model
-	[] Fontes e Cores
-	[] Seletores, Valores, Classes e IDs
+  	[x] HTML
+	[x] Estrutura base
+	[x] Tags semânticas
+ 	[x] CSS
+	[x] Box Model
+	[x] Fontes e Cores
+	[x] Seletores, Valores, Classes e IDs
 
 
 ## Aula 02 - Finalização do HTML + CSS__
- 	[] Imagens
- 	[] Acessibilidade
- 	[] Disposição dos elementos na página
- 	[] Responsividade
-  	[] Formulário para cadastro de dados
-  	[] Modal
- 	[] Uma pitadinha de JavaScript
+ 	[x] Imagens
+ 	[x] Acessibilidade
+ 	[x] Disposição dos elementos na página
+ 	[x] Responsividade
+  	[x] Formulário para cadastro de dados
+  	[x] Modal
+ 	[x] Uma pitadinha de JavaScript
 
 ## Tarefa para a Aula 03: Assistir aos cursos/aulas
 	### Revisão
 	* HTML
-	[] Posso ver e ouvir o HTML
-	[] Formulários de outro planeta
+	[x] Posso ver e ouvir o HTML
+	[x] Formulários de outro planeta
 	* CSS
-	[] Nem só de classes ou ID's
+	[x] Nem só de classes ou ID's
 	### Para acompanhar a próxima aula
-	* [] O guia estelar de JavaScript
+	* [x] O guia estelar de JavaScript
   
   ## Aula 03 Adcionando Javascript 
   
@@ -68,7 +69,7 @@
 # trilha Extra
   * Modificado paleta de cores seguindo padrão UX/UI.
   * Criado pastas para organização de arquivos.
-  * Separado codigos de componetes header, cards, table, modal, form, footer estilo global e responsive.
+  * Separado códigos de componentes header, cards, table, modal, form, footer estilo global e responsive.
   * Inserido estilo dark mode.
 
 
