@@ -57,11 +57,7 @@
 	* [x] O guia estelar de JavaScript
   
   ## Aula 03 Adcionando Javascript 
-  
-  ## Lembretes
-  * A aula vai ficar gravada
-  * Continuação da aula passada
-  * Nosso time estará na comunidade para tirar dúvidas e te deixar por dentro de tudo.
+
   
 # Bora Codar!
 
